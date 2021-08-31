@@ -2293,6 +2293,14 @@
 			.image.main img {
 				width: 100%;
 			}
+		
+			.image.center {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				margin: 0 0em 2em 10em;
+
+			}
 
 /* List */
 
